@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:GoogleAnalyticsTest" x:Class="GoogleAnalyticsTest.GoogleAnalyticsTestPage">
+	<StackLayout Padding="20">
+		<Label Text="Google Analytics Example" VerticalOptions="Center" HorizontalOptions="Center"/>	
+		<Button Text="CAll EVENT" Clicked ="OnClickButtonGoogleEventMethod" HorizontalOptions="FillAndExpand" HeightRequest="60" />
+	</StackLayout>
+</ContentPage>

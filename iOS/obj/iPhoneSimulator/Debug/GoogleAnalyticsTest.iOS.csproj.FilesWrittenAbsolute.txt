@@ -1,0 +1,17 @@
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/XBDResourceMerge/Google.Analytics.dll
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/GoogleAnalyticsTest.iOS.exe.mdb
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/GoogleAnalyticsTest.iOS.exe
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/GoogleAnalyticsTest.iOS.exe
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/obj/iPhoneSimulator/Debug/GoogleAnalyticsTest.iOS.exe.mdb
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/Google.Analytics.dll
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/GoogleAnalyticsTest.dll
+/Users/mariuspukas/Projects/GoogleAnalyticsTest/iOS/bin/iPhoneSimulator/Debug/GoogleAnalyticsTest.dll.mdb
